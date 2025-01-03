@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mike
 - 👀 I’m interested in engineering , studying  and fixing things
-- 🌱 I’m currently learning java and its software platforms
+- 🌱 I’m planning on learning C++ 
 - 📫 How to reach me ...
 
 <!---
